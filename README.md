@@ -1,4 +1,3 @@
-# pandoe-ml
 # Machine Learning Model Documentation
 
 ## Used Technologies
